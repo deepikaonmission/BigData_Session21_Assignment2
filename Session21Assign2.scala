@@ -1,6 +1,6 @@
 //<<<<<<<<<<<<<<------------------- TASK 2 ------------------->>>>>>>>>>>>>>>>>
-//Task 2 is solved using map-side join and sql query to show the comparison between the two
-//map-side join takes less time here in this code as compared to sql query
+//Task 2 is solved using map-side join and sql query to show the time comparison between the two techniques
+
 
 import org.apache.spark.sql.{Column, Row, SQLContext, SparkSession}  //Explanation is already given in Assignment18.1
 
